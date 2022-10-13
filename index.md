@@ -165,4 +165,4 @@
 |2|고블린|<img src="./img/Goblin.png" width="500">|
 |3|스켈레톤|<img src="./img/Skeleton.png" height="300">|
 |4|데몬|<img src="./img/Demon.png" height="300">|
-|5|ㄱ|ㄴ|
+
