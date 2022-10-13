@@ -161,8 +161,8 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|슬라임|<img src="./img/Slime.png" width="500">|
-|2|고블린|<img src="./img/Goblin.png" width="500">|
+|1|슬라임|<img src="./img/Slime.png" width="300">|
+|2|고블린|<img src="./img/Goblin.png" width="300">|
 |3|스켈레톤|<img src="./img/Skeleton.png" height="300">|
 |4|데몬|<img src="./img/Demon.png" height="300">|
-
+|5|무기|<img src="./img/Weapon.png" height="300">|
