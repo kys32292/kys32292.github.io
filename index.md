@@ -171,6 +171,9 @@
 |3|스켈레톤|<img src="./img/Skeleton.png" height="300">|
 |4|데몬|<img src="./img/Demon.png" height="300">|
 |5|무기|<img src="./img/Weapon.png" height="300">|
+|6|주사위|<img src="./img/dice_4.png" height="300">|
+|7|숫자|<img src="./img/13.png" height="300">|
+|8|방향키|<img src="./img/.png" height="300">|
 
 ## 2. 파라미터(속성) 뽑아 보기
 
