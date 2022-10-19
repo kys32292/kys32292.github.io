@@ -87,7 +87,7 @@
 
 # [대표 이미지]
 
-![그림](./img/Main.png)
+![그림](./img/MainIMG.png)
 
 <br><br>
 
