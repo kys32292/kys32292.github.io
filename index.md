@@ -166,3 +166,6 @@
 |3|스켈레톤|<img src="./img/Skeleton.png" height="300">|
 |4|데몬|<img src="./img/Demon.png" height="300">|
 |5|무기|<img src="./img/Weapon.png" height="300">|
+
+## 2. 파라미터(속성) 뽑아 보기
+|속성|영문 명칭|설명|
